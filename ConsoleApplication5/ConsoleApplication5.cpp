@@ -30,5 +30,6 @@ main(void *) {
 	catch (...) { cerr << "Unknown exception caught" << endl; }
 	env.end();
 	system("pause");
+	111111
 	return 0;
 }
